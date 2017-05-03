@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/brainovation/Documents/sampleProject/android-architecture/Sample/ResideMenu/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/shadow.png",
+        "source": "/home/brainovation/Documents/sampleProject/android-architecture/Sample/ResideMenu/build/intermediates/bundles/debug/res/drawable-hdpi-v4/shadow.png"
+    },
+    {
+        "merged": "/home/brainovation/Documents/sampleProject/android-architecture/Sample/ResideMenu/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/brainovation/Documents/sampleProject/android-architecture/Sample/ResideMenu/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]
